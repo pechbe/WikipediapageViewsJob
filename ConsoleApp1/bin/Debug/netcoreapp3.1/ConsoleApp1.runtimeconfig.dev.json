@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SoporteSAP_EXT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SoporteSAP_EXT\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

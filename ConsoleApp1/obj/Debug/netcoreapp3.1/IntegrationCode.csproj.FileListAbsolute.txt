@@ -1,0 +1,13 @@
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\IntegrationCode.exe
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\IntegrationCode.deps.json
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\IntegrationCode.runtimeconfig.json
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\IntegrationCode.runtimeconfig.dev.json
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\IntegrationCode.dll
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\IntegrationCode.pdb
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.AssemblyInfoInputs.cache
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.AssemblyInfo.cs
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.csproj.CoreCompileInputs.cache
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.dll
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.pdb
+C:\Users\SoporteSAP_EXT\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\IntegrationCode.genruntimeconfig.cache
